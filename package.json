@@ -1,0 +1,13 @@
+{
+  "name": "web-powerful-generator",
+  "version": "1.0.0",
+  "description": "Angular and Webpack based web generator in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
